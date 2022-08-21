@@ -4,42 +4,42 @@ AWS provides more than 200 services tailored for different customer needs.
 
 ### Computing
 
-. EC2
-. Fargate
-. Lambda
+- EC2
+- Fargate
+- Lambda
 
 ### Storage
 
-. S3
-. EBS
-. EFS
+- S3
+- EBS
+- EFS
 
 ### Database
 
-. Aurora
-. DynamoDB
-. ElastiCache
+- Aurora
+- DynamoDB
+- ElastiCache
 
 ### Security and Identity
 
-. IAM
-. Cognito
-. 
+- IAM
+- Cognito
+ 
 ### Cryptography
 
 ### Service Integration
 
-. SNS
-. SQS
-. API Gateway
-. Step Functions
+- SNS
+- SQS
+- API Gateway
+- Step Functions
 
 ### Developer Tools
 
-. CodeCommit
-. CodeBuild
-. CodeDeploy
-. CodePipeline
+- CodeCommit
+- CodeBuild
+- CodeDeploy
+- CodePipeline
 
 For more details see [Amazon documentationi](https://docs.aws.amazon.com/).
 
