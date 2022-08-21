@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to AWS FAQs
 
-You can use the [editor on GitHub](https://github.com/faq4aws/faq4aws.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+AWS provides more than 200 services tailored for different customer needs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Computing
 
-### Markdown
+. EC2
+. Fargate
+. Lambda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Storage
 
-```markdown
-Syntax highlighted code block
+. S3
+. EBS
+. EFS
 
-# Header 1
-## Header 2
-### Header 3
+### Database
 
-- Bulleted
-- List
+. Aurora
+. DynamoDB
+. ElastiCache
 
-1. Numbered
-2. List
+### Security and Identity
 
-**Bold** and _Italic_ and `Code` text
+. IAM
+. Cognito
+. 
+### Cryptography
 
-[Link](url) and ![Image](src)
-```
+### Service Integration
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+. SNS
+. SQS
+. API Gateway
+. Step Functions
 
-### Jekyll Themes
+### Developer Tools
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/faq4aws/faq4aws.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+. CodeCommit
+. CodeBuild
+. CodeDeploy
+. CodePipeline
+
+For more details see [Amazon documentationi](https://docs.aws.amazon.com/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? [contact support](mailto:faq4aws@gmail.com?subject=[FAQ4AWS]%20Source%20Web%20Outage) and we’ll help you sort it out.
